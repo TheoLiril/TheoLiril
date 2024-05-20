@@ -1,5 +1,5 @@
 <h1>Theo Santos de Lira</h1>
-<P>Tenho 19 anos e estou atualmente cursando engenharia de controle e automação pela UPE, cursei tecnico em ADS na ETE Porto Digital e tenho objetivo em desenvolver projetos automatizados voltados para indústria, com objetivo de trazer melhoria para o mercado e para desenvolvimento pessoal e profisional.</P>
+<P>Tenho 19 anos e estou atualmente cursando engenharia de controle e automação pela UPE, cursei tecnico em ADS na ETE Porto Digital e tenho como objetivo desenvolver projetos automatizados voltados para indústria, visando trazer melhoria para o mercado e para desenvolvimento pessoal e profisional.</P>
 
 <h2>Linguagens e ferramentas</h2>
 
